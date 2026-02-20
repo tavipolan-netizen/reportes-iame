@@ -1,0 +1,8 @@
+{
+  "name": "IAME - Reporte de Fugas de Gas",
+  "description": "Aplicación oficial del Instituto Autónomo Municipal de la Energía para el reporte inmediato de fugas de metano y emergencias de gas en Venezuela.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
